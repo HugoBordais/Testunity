@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VideoAR.unity
+  isLoaded: 1
+  isActive: 1
